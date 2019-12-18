@@ -1,0 +1,9 @@
+
+the num of shared indexes is : 183
+the num of different indexes is : 73
+
+          dist      gini       pop       kmr
+dist  1.000000  0.227230  0.718444 -0.402591
+gini  0.227230  1.000000  0.046273  0.028573
+pop   0.718444  0.046273  1.000000 -0.564189
+kmr  -0.402591  0.028573 -0.564189  1.000000
